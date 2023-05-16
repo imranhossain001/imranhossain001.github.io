@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Imran&#39;s Blogs</title>
+    
+    
+    
+    <link>https://raajuss.github.io/categories/tutorials/</link>
+    <description>Recent content in Tutorials on Imran&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raajuss.github.io/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Demysitified</title>
+      <link>https://raajuss.github.io/post/git-demystified/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/git-demystified/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This document is supposed to be a complete and concise guide to understand the mechanics of Git.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

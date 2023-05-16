@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imran&#39;s Blogs</title>
+    
+    
+    
+    <link>https://raajuss.github.io/</link>
+    <description>Recent content on Imran&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raajuss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Demysitified</title>
+      <link>https://raajuss.github.io/post/git-demystified/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/git-demystified/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This document is supposed to be a complete and concise guide to understand the mechanics of Git.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://raajuss.github.io/showcase/showcase2/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/showcase/showcase2/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Header 2 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>GitHub usernames</title>
+      <link>https://raajuss.github.io/post/github-usernames/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/github-usernames/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          How hard is it to change GitHub username to a short word?
+Last week I decided to change mine from a 14 letter word to some 4-6 letter word. Don&amp;rsquo;t ask me why. I was fed up typing long words!
+The new username should ideally be &amp;mdash;
+Comfortable in speaking Easily pronounceable Faster to type Visually good looking The hunt # My quest began manually with initial candidates as ashr, friday, ranj, aran, etc.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>MicroPython</title>
+      <link>https://raajuss.github.io/post/micropython/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/micropython/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          There is still a place for innovation.
+Last month I had a conversation with my friends about how most of the world has already been invented. And we aren&amp;rsquo;t going to see a life changing innovation in our lifetime.
+Look at how
+Uber changed transportation GitHub changed collaboration Amazon changed shopping Tesla changed cars Google changed mobile phones Apple changed computers WhatsApp changed connectivity Tinder changed the lovesphere In the past five years, things has been pretty constant.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Software Development Triangle</title>
+      <link>https://raajuss.github.io/post/software-development-triangle/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/software-development-triangle/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Choose any two — Maintainable, Configurable, Speed.
+When creating a new software, you could only have two out of the following:
+Maintainable Configurable Speed If you choose to focus on maintainability and configurability, it&amp;rsquo;ll take a long time to develop and performance might be impacted.
+If you choose to focus on maintainability and speed (of development and performance), you might not have a configurable system (i.e. with many features and options).
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Milky way</title>
+      <link>https://raajuss.github.io/post/milky-way/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/milky-way/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A long long time ago, everybody lived happily.
+Bright lights made up everything. Love and affection held it all together in one small beautiful place. There was no room for ego, malice or envy. It had all the ingredients to make up an ideal world filled with harmony and peace and a future that was promised to have unlimited energy. They were going to call it home.
+Then the evil empire attacked.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Programmer&#39;s calm</title>
+      <link>https://raajuss.github.io/post/programmers-calm/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/programmers-calm/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          When depression knocks the door.
+While trawling one of my favourite repos - exa, I stumbled upon something I never would have expected. A heartful message from its author when he wasn&amp;rsquo;t at his best.
+This is as real as it gets. Unfortunately nobody knows about it, because we don&amp;rsquo;t talk about it.
+exa v0.4.1 (basically a pre-release v0.5.0) — Mar 29, 2017
+This is a snapshot of exa&amp;rsquo;s current code, which has been cleaned up a bit and at the very least been run through untry (which managed to pick apart all try!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://raajuss.github.io/home/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/home/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there # My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Connecting to office server from anywhere</title>
+      <link>https://raajuss.github.io/showcase/showcase/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/showcase/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Boss locks up his Digital Ocean server # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://raajuss.github.io/post/hello/</link>
+      <pubDate>Sun, 17 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/hello/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://raajuss.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Imran Hossain # Nicknamed as raajuss. I&amp;rsquo;m a Software Engineer.
+I have 3+ years of experience in Flutter. I am expert in NodeJS, MySQL, Mongo, Laravel web technologies.
+If there is to start something on the web or mobile, I can get your requirements.
+I worked in many software firms. I love open source.
+Available to be hired&amp;hellip; Drop me a line at imran.hossain@keemail.me
+Don&amp;rsquo;t forget to checkout my GitHub
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://raajuss.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

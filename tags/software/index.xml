@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Imran&#39;s Blogs</title>
+    
+    
+    
+    <link>https://raajuss.github.io/tags/software/</link>
+    <description>Recent content in Software on Imran&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raajuss.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Development Triangle</title>
+      <link>https://raajuss.github.io/post/software-development-triangle/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raajuss.github.io/post/software-development-triangle/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Choose any two — Maintainable, Configurable, Speed.
+When creating a new software, you could only have two out of the following:
+Maintainable Configurable Speed If you choose to focus on maintainability and configurability, it&amp;rsquo;ll take a long time to develop and performance might be impacted.
+If you choose to focus on maintainability and speed (of development and performance), you might not have a configurable system (i.e. with many features and options).
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

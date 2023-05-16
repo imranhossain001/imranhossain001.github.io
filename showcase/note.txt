@@ -1,0 +1,5 @@
+index.md inside the dir will put the whole file as web page instead of showing read more.
+
+putting more md files will show read more.
+
+_index.md file has no effect.

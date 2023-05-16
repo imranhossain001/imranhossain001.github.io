@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+      <title>
+        MicroPython ::
+        Imran&#39;s Blogs
+      </title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="There is still a place for innovation.
+Last month I had a conversation with my friends about how most of the world has already been invented. And we aren&amp;rsquo;t going to see a life changing innovation in our lifetime.
+Look at how
+Uber changed transportation GitHub changed collaboration Amazon changed shopping Tesla changed cars Google changed mobile phones Apple changed computers WhatsApp changed connectivity Tinder changed the lovesphere In the past five years, things has been pretty constant."
+/>
+<meta
+  name="keywords"
+  content=""
+/>
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://raajuss.github.io/post/micropython/" />
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/style.css" />
+
+<link rel="stylesheet" href="https://raajuss.github.io/style.css" />
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://raajuss.github.io/img/apple-touch-icon-144-precomposed.png" />
+<link rel="shortcut icon" href="https://raajuss.github.io/img/favicon.png" />
+
+
+<link href="/fonts/Inter-Italic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-Regular.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-Medium.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-MediumItalic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-Bold.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/fonts/Inter-BoldItalic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="MicroPython"/>
+<meta name="twitter:description" content="There is still a place for innovation.
+Last month I had a conversation with my friends about how most of the world has already been invented. And we aren&rsquo;t going to see a life changing innovation in our lifetime.
+Look at how
+Uber changed transportation GitHub changed collaboration Amazon changed shopping Tesla changed cars Google changed mobile phones Apple changed computers WhatsApp changed connectivity Tinder changed the lovesphere In the past five years, things has been pretty constant."/>
+
+
+
+<meta property="og:title" content="MicroPython" />
+<meta property="og:description" content="There is still a place for innovation.
+Last month I had a conversation with my friends about how most of the world has already been invented. And we aren&rsquo;t going to see a life changing innovation in our lifetime.
+Look at how
+Uber changed transportation GitHub changed collaboration Amazon changed shopping Tesla changed cars Google changed mobile phones Apple changed computers WhatsApp changed connectivity Tinder changed the lovesphere In the past five years, things has been pretty constant." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://raajuss.github.io/post/micropython/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-05-15T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-05-15T00:00:00+00:00" /><meta property="og:site_name" content="Imran&#39;s Blogs" />
+
+
+
+
+
+
+  </head>
+  <body class="dark-theme">
+    <div class="container">
+      <header class="header">
+  <span class="header__inner">
+    <a
+  href="/"
+  class="logo"
+  style="text-decoration: none;"
+>
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367" />
+</svg>
+</span>
+    <span class="logo__text"
+      >cd /home/imran</span
+    >
+    <span class="logo__cursor"></span>
+  
+</a>
+
+    <span class="header__right">
+      
+        <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/post/">Blogs</a></li>
+        
+      
+        
+          <li><a href="/about/">About me</a></li>
+        
+      
+        
+          <li><a href="/showcase/">Showcase</a></li>
+        
+      
+        
+          <li><a href="/categories/">Categories</a></li>
+        
+      
+        
+          <li><a href="/tags/">Tags</a></li>
+        
+      
+        
+          <li><a href="/post/">Archives</a></li>
+        
+      
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/post/">Blogs</a></li>
+      
+    
+      
+        <li><a href="/about/">About me</a></li>
+      
+    
+      
+        <li><a href="/showcase/">Showcase</a></li>
+      
+    
+      
+        <li><a href="/categories/">Categories</a></li>
+      
+    
+      
+        <li><a href="/tags/">Tags</a></li>
+      
+    
+      
+        <li><a href="/post/">Archives</a></li>
+      
+    
+  </ul>
+</nav>
+
+        <span class="menu-trigger">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" />
+          </svg>
+        </span>
+      
+      <span class="theme-toggle">
+        <svg
+  class="theme-toggler"
+  width="24"
+  height="24"
+  viewBox="0 0 48 48"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"
+  />
+</svg>
+
+      </span>
+    </span>
+  </span>
+</header>
+
+
+      <div class="content">
+        
+  
+  
+
+  <article class="post">
+    <h1 class="post-title">MicroPython</h1>
+    <div class="post-meta">
+      
+        <time class="post-date">
+          2023-05-15
+        </time>
+
+        
+          
+        
+      
+
+      
+        <span class="post-author"
+          >— Written by Imran Hossain</span
+        >
+
+
+      
+    </div>
+
+    
+      <span class="post-tags">
+        
+          <a href="https://raajuss.github.io/tags/talks/">#talks</a>&nbsp;
+        
+      </span>
+    
+
+    
+
+    <div class="post-content">
+      
+      <p>There is still a place for innovation.</p>
+<p>Last month I had a conversation with my friends about how most of the
+world has already been invented. And we aren&rsquo;t going to see a life
+changing innovation in our lifetime.</p>
+<p>Look at how</p>
+<ul>
+<li>Uber changed transportation</li>
+<li>GitHub changed collaboration</li>
+<li>Amazon changed shopping</li>
+<li>Tesla changed cars</li>
+<li>Google changed mobile phones</li>
+<li>Apple changed computers</li>
+<li>WhatsApp changed connectivity</li>
+<li>Tinder changed the lovesphere</li>
+</ul>
+<p>In the past five years, things has been pretty constant. Any other
+company is either trying to copy someone else, or just doing the bare
+minimum to survive. Innovation has stagnated. It was a sad reality. My
+friends agreed, but were more optimistic about the future than me.</p>
+<p>Fast forward a week, I was watching a <a href="https://www.youtube.com/watch?v=m1miwCJtxeM">video related to the Internet of
+Things</a>. The presenter
+displayed an embedded device running Python. Suddenly, it hit me!</p>
+<blockquote>
+<p><em>My hypothesis was solely focused on the software world.</em></p>
+</blockquote>
+<p>Software ecosystem has saturated. There is a web service or an app for
+everything. This is because tools to build software applications are
+extremely accessible and convenient. You can learn to create a new
+website in under a day.</p>
+<p>However, the hardware market is still in its infancy. Let me explain.</p>
+<h3 id="flashback">
+  Flashback
+  <a href="#flashback" class="h-anchor" aria-hidden="true">#</a>
+</h3>
+<p>When I was in college, I started learing embedded programming on an
+ATmega8 microcontroller. To begin, you had to set up oscillators, fuse
+bits, Serial Peripheral Interface using a USBasp programmer. Then you&rsquo;d
+set up your Operating System for the development environment. The whole
+process was an extremely demanding task. By the time you were done, it
+would be 11pm in the night and you had missed your lunch and dinner.
+You&rsquo;d then write a program in Embedded C to blink an LED, upload it, and
+say your prayers. Happy tears would roll down your cheek when you saw
+the red LED turning on and off every second. Those were some days!</p>
+<p>Do you see it? You spent an entire day just to see an LED blink. The
+entry barrier to hardware development was enormous.</p>
+<h3 id="arduino">
+  Arduino
+  <a href="#arduino" class="h-anchor" aria-hidden="true">#</a>
+</h3>
+<p>Meet Arduino - a ready made development board created by some wonderful
+people in Italy. It had a microcontroller, a USB, an LED and General
+Purpose Input Output (GPIO) pins, all in one place. Just plug it into
+your computer, open BlinkLED example and hit the Upload button. The LED
+would be blinking as if you had put a gun to its head. All of this in
+under 10 minutes.</p>
+<blockquote>
+<p><em>Arduino changed the hardware development game.</em></p>
+</blockquote>
+<p>Suddenly people from all over the world were creating wonderful projects
+and sharing them on the internet.</p>
+<p>However, you don&rsquo;t see as many hardware services as you&rsquo;d see web
+services. There is still a big gap between hardware and software
+development. Why?</p>
+<p>Because writing code in C, compiling it, waiting for it to upload and
+verifying that everything works takes a lot of time. And god forbid, you
+need to debug something. Hell is a modest word for that situation.</p>
+<h3 id="micropython-and-pyboard">
+  MicroPython and pyboard
+  <a href="#micropython-and-pyboard" class="h-anchor" aria-hidden="true">#</a>
+</h3>
+<p>Enter pyboard. It&rsquo;s the new kid on the block. You can write code in
+everybody&rsquo;s favourite language — Python (3, not 2). It allows you to get
+up and running in just three simple steps:</p>
+<ul>
+<li>Write code in MicroPython</li>
+<li>Plug pyboard into your computer</li>
+<li>Upload your code</li>
+</ul>
+<p>Features:</p>
+<ul>
+<li>Powerful - 168MHz CPU, 192k RAM, 1M flash Debuggable - REPL console</li>
+<li>Modular - run code from a microSD card Peripherals - SPI, I2C, Serial,</li>
+<li>RTC, 3 ADC, 2 DAC, 1 accelerometer, 24 GPIO, 4 LEDs</li>
+</ul>
+<p>With features like this and an open source programming language
+(MicroPython), hardware development has become accessible to everybody.</p>
+<h3 id="conclusion">
+  Conclusion
+  <a href="#conclusion" class="h-anchor" aria-hidden="true">#</a>
+</h3>
+<p>It might seem like innovation around us has stalled. But it&rsquo;s not true.
+Development of hardware devices is now as easy and convenient as is
+developing a web service. I am hopeful that we will see a rapid growth
+of new and exciting IOT devices in our lifetime.</p>
+<p>One more thing. In light of new evidences like Rust and WebAssembly, I
+now believe that the software world is also up for a fight to innovate.</p>
+<h3 id="sources">
+  Sources
+  <a href="#sources" class="h-anchor" aria-hidden="true">#</a>
+</h3>
+<p><a href="https://www.youtube.com/watch?v=5LbgyDmRu9s">Micro Python pyboard
+overview</a></p>
+
+    </div>
+    
+      
+        <div class="pagination">
+          <div class="pagination__title">
+            <span class="pagination__title-h"
+              >Read other posts</span
+            >
+            <hr />
+          </div>
+          <div class="pagination__buttons">
+            
+              <span class="button previous">
+                <a href="https://raajuss.github.io/post/github-usernames/">
+                  <span class="button__icon">←</span>
+                  <span class="button__text">GitHub usernames</span>
+                </a>
+              </span>
+            
+            
+              <span class="button next">
+                <a href="https://raajuss.github.io/post/software-development-triangle/">
+                  <span class="button__text">Software Development Triangle</span>
+                  <span class="button__icon">→</span>
+                </a>
+              </span>
+            
+          </div>
+        </div>
+      
+    
+
+    
+      
+        
+
+      
+    
+  </article>
+
+      </div>
+
+      
+        <footer class="footer">
+  <div class="footer__inner">
+    
+      <a
+  href="/"
+  class="logo"
+  style="text-decoration: none;"
+>
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367" />
+</svg>
+</span>
+    <span class="logo__text"
+      >cd /home/imran</span
+    >
+    <span class="logo__cursor"></span>
+  
+</a>
+
+    
+  </div>
+</footer>
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+      
+    </div>
+
+    
+  </body>
+</html>
