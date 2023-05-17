@@ -1,17 +1,8 @@
-putting _index.md wll disable all md in root dir.
-putting index.md will enable all the other md in root dir.
-putting _index.md inside the root dir will make all links in header need a about dir instead of about.md
+Put all of your images in the static/ directory. Then reference the image file with a leading slash
 
-create a repo in github named raajuss.github.io. Then clone the repo.
-delete the contents inside public dir in hugo project.
-in the root dir, type hugo.
-cp the contents in public and paste in cloned repo.
 
-```
-git add -A
-git commit -m "added more"
-git push -u origin main
-```
-use token instead of password.
- 
+![](/git/bestProPic_20-modified.png)
+ok.
+![](git/bestProPic_20-modified.png)
+not ok
 
