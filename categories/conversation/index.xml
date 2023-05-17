@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conversation on Imran&#39;s Blogs</title>
+    <title>Conversation on Imran Hossain</title>
     
     
     
-    <link>https://raajuss.github.io/categories/conversation/</link>
-    <description>Recent content in Conversation on Imran&#39;s Blogs</description>
+    <link>/categories/conversation/</link>
+    <description>Recent content in Conversation on Imran Hossain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raajuss.github.io/categories/conversation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/conversation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MicroPython</title>
-      <link>https://raajuss.github.io/post/micropython/</link>
+      <link>/post/micropython/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/micropython/</guid>
+      <guid>/post/micropython/</guid>
       <description>
         
           
@@ -39,10 +39,10 @@ Uber changed transportation GitHub changed collaboration Amazon changed shopping
     
     <item>
       <title>Connecting to office server from anywhere</title>
-      <link>https://raajuss.github.io/showcase/showcase/</link>
+      <link>/showcase/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/showcase/showcase/</guid>
+      <guid>/showcase/showcase/</guid>
       <description>
         
           
@@ -59,10 +59,10 @@ Uber changed transportation GitHub changed collaboration Amazon changed shopping
     
     <item>
       <title>Hello Friend</title>
-      <link>https://raajuss.github.io/post/hello/</link>
+      <link>/post/hello/</link>
       <pubDate>Sun, 17 Sep 2000 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/hello/</guid>
+      <guid>/post/hello/</guid>
       <description>
         
           
@@ -79,10 +79,10 @@ Uber changed transportation GitHub changed collaboration Amazon changed shopping
     
     <item>
       <title></title>
-      <link>https://raajuss.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/about/</guid>
+      <guid>/</guid>
       <description>
         
           
@@ -91,12 +91,36 @@ Uber changed transportation GitHub changed collaboration Amazon changed shopping
         
         
         
-          Imran Hossain # Nicknamed as raajuss. I&amp;rsquo;m a Software Engineer.
+          Hi there, # I&amp;rsquo;m Imran Hossain # I am a proficient and self motivated computer science engineer, experienced in building Android &amp;amp; iOS applications and websites. I have also completed various machine-learning and deep neural projects to facilitate different real life problems.
+Contact me
+👉 Twitter ✔ LinkedIn ✔ GitHub ✔ Email
+&amp;ndash;
+Skills # Field Summary ◉ Prgramming Languages ⭐ python 🌟 Java 🔷 JavaScript 🔰 Dart ◉ Frameworks 🔥 Flutter (3+ years of experience) 🎯 ExpressJS (4+ years of experience) 💊 FastAPI 💊 Flask 💞 Laravel ◉ Backend 📕 MySQL 📗 MongoDB 📘 PostgreSQL 🔐 JWT Auth 🔨 Pydantic ◉ DevOps 😍 Docker (4+ years of experience) 💪 Linux (I use Arch btw) 👌 Server administration ◉ Cloud Computing 🔧 Azure (Deployed ML/DL models in Azure App service via docker) 🚥 AWS (EC2, Lambda) ◉ Others 🏆 Git (merge, rebase, branch, etc) ✨ Vim (very Proffecient) Proficient in:
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Imran Hossain # Nicknamed as raju. I&amp;rsquo;m a Software Engineer.
 I have 3+ years of experience in Flutter. I am expert in NodeJS, MySQL, Mongo, Laravel web technologies.
 If there is to start something on the web or mobile, I can get your requirements.
-I worked in many software firms. I love open source.
-Available to be hired&amp;hellip; Drop me a line at imran.hossain@keemail.me
-Don&amp;rsquo;t forget to checkout my GitHub Download my CV.
+I worked at a software firm named Onutiative Ltd as an Intern.
+📢 Available to be hired&amp;hellip; Drop me a line at ⌲ imran.hossain@keemail.me
+Don&amp;rsquo;t forget to checkout my GitHub
           
         
         </description>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Imran&#39;s Blogs</title>
+    <title>Imran Hossain</title>
     
     
     
-    <link>https://raajuss.github.io/</link>
-    <description>Recent content on Imran&#39;s Blogs</description>
+    <link>/</link>
+    <description>Recent content on Imran Hossain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raajuss.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git Demysitified</title>
-      <link>https://raajuss.github.io/post/git-demystified/</link>
+      <link>/post/git-demystified/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/git-demystified/</guid>
+      <guid>/post/git-demystified/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>https://raajuss.github.io/showcase/showcase2/</link>
+      <link>/showcase/showcase2/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/showcase/showcase2/</guid>
+      <guid>/showcase/showcase2/</guid>
       <description>
         
           
@@ -56,10 +56,10 @@
     
     <item>
       <title>GitHub usernames</title>
-      <link>https://raajuss.github.io/post/github-usernames/</link>
+      <link>/post/github-usernames/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/github-usernames/</guid>
+      <guid>/post/github-usernames/</guid>
       <description>
         
           
@@ -79,10 +79,10 @@ Comfortable in speaking Easily pronounceable Faster to type Visually good lookin
     
     <item>
       <title>MicroPython</title>
-      <link>https://raajuss.github.io/post/micropython/</link>
+      <link>/post/micropython/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/micropython/</guid>
+      <guid>/post/micropython/</guid>
       <description>
         
           
@@ -102,10 +102,10 @@ Uber changed transportation GitHub changed collaboration Amazon changed shopping
     
     <item>
       <title>Software Development Triangle</title>
-      <link>https://raajuss.github.io/post/software-development-triangle/</link>
+      <link>/post/software-development-triangle/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/software-development-triangle/</guid>
+      <guid>/post/software-development-triangle/</guid>
       <description>
         
           
@@ -125,10 +125,10 @@ If you choose to focus on maintainability and speed (of development and performa
     
     <item>
       <title>Milky way</title>
-      <link>https://raajuss.github.io/post/milky-way/</link>
+      <link>/post/milky-way/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/milky-way/</guid>
+      <guid>/post/milky-way/</guid>
       <description>
         
           
@@ -147,10 +147,10 @@ Then the evil empire attacked.
     
     <item>
       <title>Programmer&#39;s calm</title>
-      <link>https://raajuss.github.io/post/programmers-calm/</link>
+      <link>/post/programmers-calm/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/programmers-calm/</guid>
+      <guid>/post/programmers-calm/</guid>
       <description>
         
           
@@ -171,10 +171,10 @@ This is a snapshot of exa&amp;rsquo;s current code, which has been cleaned up a 
     
     <item>
       <title>Connecting to office server from anywhere</title>
-      <link>https://raajuss.github.io/showcase/showcase/</link>
+      <link>/showcase/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/showcase/showcase/</guid>
+      <guid>/showcase/showcase/</guid>
       <description>
         
           
@@ -191,10 +191,10 @@ This is a snapshot of exa&amp;rsquo;s current code, which has been cleaned up a 
     
     <item>
       <title>Hello Friend</title>
-      <link>https://raajuss.github.io/post/hello/</link>
+      <link>/post/hello/</link>
       <pubDate>Sun, 17 Sep 2000 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/hello/</guid>
+      <guid>/post/hello/</guid>
       <description>
         
           
@@ -211,10 +211,10 @@ This is a snapshot of exa&amp;rsquo;s current code, which has been cleaned up a 
     
     <item>
       <title></title>
-      <link>https://raajuss.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>
         
           
@@ -223,12 +223,34 @@ This is a snapshot of exa&amp;rsquo;s current code, which has been cleaned up a 
         
         
         
-          Imran Hossain # Nicknamed as raajuss. I&amp;rsquo;m a Software Engineer.
+          Imran Hossain # Nicknamed as raju. I&amp;rsquo;m a Software Engineer.
 I have 3+ years of experience in Flutter. I am expert in NodeJS, MySQL, Mongo, Laravel web technologies.
 If there is to start something on the web or mobile, I can get your requirements.
-I worked in many software firms. I love open source.
-Available to be hired&amp;hellip; Drop me a line at imran.hossain@keemail.me
-Don&amp;rsquo;t forget to checkout my GitHub Download my CV.
+I worked at a software firm named Onutiative Ltd as an Intern.
+📢 Available to be hired&amp;hellip; Drop me a line at ⌲ imran.hossain@keemail.me
+Don&amp;rsquo;t forget to checkout my GitHub
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/home/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there # My name is Imran Hossain a.k.a raajuss. I&amp;rsquo;m a Software Engineer by profession.
+I regularly post programming and technology related blogs here. To see my projects Showcase. For my detailed bio About me.
+Please use the menu at the Top to navigate the site or scroll down to read latest blogs.
           
         
         </description>
@@ -236,10 +258,10 @@ Don&amp;rsquo;t forget to checkout my GitHub Download my CV.
     
     <item>
       <title>Archive</title>
-      <link>https://raajuss.github.io/archive/</link>
+      <link>/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/archive/</guid>
+      <guid>/archive/</guid>
       <description>
         
           

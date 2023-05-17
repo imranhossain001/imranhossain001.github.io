@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Imran&#39;s Blogs</title>
+    <title>Categories on Imran Hossain</title>
     
     
     
-    <link>https://raajuss.github.io/categories/</link>
-    <description>Recent content in Categories on Imran&#39;s Blogs</description>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Imran Hossain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raajuss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutorials</title>
-      <link>https://raajuss.github.io/categories/tutorials/</link>
+      <link>/categories/tutorials/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/categories/tutorials/</guid>
+      <guid>/categories/tutorials/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>Conversation</title>
-      <link>https://raajuss.github.io/categories/conversation/</link>
+      <link>/categories/conversation/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/categories/conversation/</guid>
+      <guid>/categories/conversation/</guid>
       <description>
         
           
@@ -56,10 +56,10 @@
     
     <item>
       <title>Hackathon</title>
-      <link>https://raajuss.github.io/categories/hackathon/</link>
+      <link>/categories/hackathon/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/categories/hackathon/</guid>
+      <guid>/categories/hackathon/</guid>
       <description>
         
           
@@ -76,10 +76,10 @@
     
     <item>
       <title>Software Engineering</title>
-      <link>https://raajuss.github.io/categories/software-engineering/</link>
+      <link>/categories/software-engineering/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/categories/software-engineering/</guid>
+      <guid>/categories/software-engineering/</guid>
       <description>
         
           
@@ -96,10 +96,10 @@
     
     <item>
       <title>Astrology</title>
-      <link>https://raajuss.github.io/categories/astrology/</link>
+      <link>/categories/astrology/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/categories/astrology/</guid>
+      <guid>/categories/astrology/</guid>
       <description>
         
           
@@ -116,10 +116,10 @@
     
     <item>
       <title>ASMR</title>
-      <link>https://raajuss.github.io/categories/asmr/</link>
+      <link>/categories/asmr/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/categories/asmr/</guid>
+      <guid>/categories/asmr/</guid>
       <description>
         
           

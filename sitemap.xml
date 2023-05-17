@@ -2,83 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raajuss.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/tags/git/</loc>
+    <loc>/tags/git/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/git-demystified/</loc>
+    <loc>/post/git-demystified/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/showcase/showcase2/</loc>
+    <loc>/showcase/showcase2/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/tutorials/</loc>
+    <loc>/categories/tutorials/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/conversation/</loc>
+    <loc>/categories/conversation/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/github-usernames/</loc>
+    <loc>/post/github-usernames/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/hackathon/</loc>
+    <loc>/categories/hackathon/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/micropython/</loc>
+    <loc>/post/micropython/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/tags/talks/</loc>
+    <loc>/tags/talks/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/tags/software/</loc>
+    <loc>/tags/software/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/software-development-triangle/</loc>
+    <loc>/post/software-development-triangle/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/software-engineering/</loc>
+    <loc>/categories/software-engineering/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/tags/astro/</loc>
+    <loc>/tags/astro/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/astrology/</loc>
+    <loc>/categories/astrology/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/milky-way/</loc>
+    <loc>/post/milky-way/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/categories/asmr/</loc>
+    <loc>/categories/asmr/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/programmers-calm/</loc>
+    <loc>/post/programmers-calm/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/showcase/showcase/</loc>
+    <loc>/showcase/showcase/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/post/hello/</loc>
+    <loc>/post/hello/</loc>
     <lastmod>2000-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raajuss.github.io/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://raajuss.github.io/archive/</loc>
+    <loc>/home/home/</loc>
+  </url><url>
+    <loc>/archive/</loc>
+  </url><url>
+    <loc>/tags/home/</loc>
+  </url><url>
+    <loc>/home/</loc>
   </url>
 </urlset>

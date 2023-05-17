@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git on Imran&#39;s Blogs</title>
+    <title>git on Imran Hossain</title>
     
     
     
-    <link>https://raajuss.github.io/tags/git/</link>
-    <description>Recent content in git on Imran&#39;s Blogs</description>
+    <link>/tags/git/</link>
+    <description>Recent content in git on Imran Hossain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raajuss.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git Demysitified</title>
-      <link>https://raajuss.github.io/post/git-demystified/</link>
+      <link>/post/git-demystified/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/git-demystified/</guid>
+      <guid>/post/git-demystified/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>GitHub usernames</title>
-      <link>https://raajuss.github.io/post/github-usernames/</link>
+      <link>/post/github-usernames/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/github-usernames/</guid>
+      <guid>/post/github-usernames/</guid>
       <description>
         
           

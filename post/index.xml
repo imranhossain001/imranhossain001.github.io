@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Imran&#39;s Blogs</title>
+    <title>Posts on Imran Hossain</title>
     
     
     
-    <link>https://raajuss.github.io/post/</link>
-    <description>Recent content in Posts on Imran&#39;s Blogs</description>
+    <link>/post/</link>
+    <description>Recent content in Posts on Imran Hossain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raajuss.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git Demysitified</title>
-      <link>https://raajuss.github.io/post/git-demystified/</link>
+      <link>/post/git-demystified/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/git-demystified/</guid>
+      <guid>/post/git-demystified/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>GitHub usernames</title>
-      <link>https://raajuss.github.io/post/github-usernames/</link>
+      <link>/post/github-usernames/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/github-usernames/</guid>
+      <guid>/post/github-usernames/</guid>
       <description>
         
           
@@ -59,10 +59,10 @@ Comfortable in speaking Easily pronounceable Faster to type Visually good lookin
     
     <item>
       <title>MicroPython</title>
-      <link>https://raajuss.github.io/post/micropython/</link>
+      <link>/post/micropython/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/micropython/</guid>
+      <guid>/post/micropython/</guid>
       <description>
         
           
@@ -82,10 +82,10 @@ Uber changed transportation GitHub changed collaboration Amazon changed shopping
     
     <item>
       <title>Software Development Triangle</title>
-      <link>https://raajuss.github.io/post/software-development-triangle/</link>
+      <link>/post/software-development-triangle/</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/software-development-triangle/</guid>
+      <guid>/post/software-development-triangle/</guid>
       <description>
         
           
@@ -105,10 +105,10 @@ If you choose to focus on maintainability and speed (of development and performa
     
     <item>
       <title>Milky way</title>
-      <link>https://raajuss.github.io/post/milky-way/</link>
+      <link>/post/milky-way/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/milky-way/</guid>
+      <guid>/post/milky-way/</guid>
       <description>
         
           
@@ -127,10 +127,10 @@ Then the evil empire attacked.
     
     <item>
       <title>Programmer&#39;s calm</title>
-      <link>https://raajuss.github.io/post/programmers-calm/</link>
+      <link>/post/programmers-calm/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/programmers-calm/</guid>
+      <guid>/post/programmers-calm/</guid>
       <description>
         
           
@@ -151,10 +151,10 @@ This is a snapshot of exa&amp;rsquo;s current code, which has been cleaned up a 
     
     <item>
       <title>Hello Friend</title>
-      <link>https://raajuss.github.io/post/hello/</link>
+      <link>/post/hello/</link>
       <pubDate>Sun, 17 Sep 2000 00:00:00 +0000</pubDate>
       
-      <guid>https://raajuss.github.io/post/hello/</guid>
+      <guid>/post/hello/</guid>
       <description>
         
           
