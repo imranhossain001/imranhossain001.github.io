@@ -1,5 +1,0 @@
-index.md inside the dir will put the whole file as web page instead of showing read more.
-
-putting more md files doesn't show read more here :|.
-
-_index.md file has no effect.
